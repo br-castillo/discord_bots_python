@@ -1,0 +1,18 @@
+Bot Token Variable Name: "Buzzy Bot Token"
+
+Prefix: "=="
+
+Playing Status: "buzz buzz"
+
+Log Channel ID:  
+Main Channel ID: 
+
+Embed Settings:
+  Color:
+    r: 255
+    g: 255
+    b: 255
+
+  Footer:
+    Text: Buzzy Bot, 2020-2021
+    Icon URL: https://cdn2.iconfinder.com/data/icons/picol-vector/32/news-512.png
